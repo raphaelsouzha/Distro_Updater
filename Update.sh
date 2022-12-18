@@ -52,7 +52,7 @@ elif [ $distro = "debian" ] || [ $distro = "Debian" ] || [ $distro = "Ubuntu" ] 
                 flatpak install flathub org.telegram.desktop -y
                 flatpak install flathub com.transmissionbt.Transmission -y
         fi
-elif [ $distro = "arch'" ]
+elif [ $distro = "arch" ] || [ $distro = "Arch" ]
     then
         sudo pacman -Syu
         sudo pacman -S base-devel flatpak virtualbox

@@ -1,11 +1,28 @@
-# Distro_Updater
-This's script based on Shell language.
 
-# How to use?
-On terminal, to open this file it's simple. Just try:
+# Eng: Distro Updater
+## Pt-br: Atualizador de Distro
 
-$ sh ./Update.sh
+Eng: This script based on shell language, basiclly is a simple script to update and install some apps from default repo or flathub (with flatpak command).
 
-Pass your distro, default commands to identify the distro are: Arch, Debian and Fedora
+Pt-br: Este é um script simples em shell, basicamente é um script que atualiza e instalar alguns apps do repositório nativo da distro e alguns via flathub.
 
-# Credits
+
+## Autores
+
+- [@raphaelsouzha](https://www.github.com/raphaelsouzha)
+
+
+## Contribuindo
+
+Contribuições são sempre bem-vindas!
+
+Caso queira melhorar o script, fique à vontade, mas não se esqueça de informar.
+
+## Etiquetas
+
+Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+

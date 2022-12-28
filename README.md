@@ -2,7 +2,7 @@
 # Eng: Distro Updater
 ## Pt-br: Atualizador de Distro
 
-Eng: This script based on shell language, basiclly is a simple script to update and install some apps from default repo or flathub (with flatpak command).
+Eng-us: This script based on shell language, basiclly is a simple script to update and install some apps from default repo or flathub (with flatpak command).
 
 Pt-br: Este é um script simples em shell, basicamente é um script que atualiza e instalar alguns apps do repositório nativo da distro e alguns via flathub.
 
